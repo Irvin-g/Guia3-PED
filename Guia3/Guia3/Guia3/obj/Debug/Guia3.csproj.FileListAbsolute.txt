@@ -1,0 +1,10 @@
+C:\Users\irvin\OneDrive\Documentos\Guia3\Guia3\Guia3\bin\Debug\Guia3.exe.config
+C:\Users\irvin\OneDrive\Documentos\Guia3\Guia3\Guia3\bin\Debug\Guia3.exe
+C:\Users\irvin\OneDrive\Documentos\Guia3\Guia3\Guia3\bin\Debug\Guia3.pdb
+C:\Users\irvin\OneDrive\Documentos\Guia3\Guia3\Guia3\obj\Debug\Guia3.csproj.AssemblyReference.cache
+C:\Users\irvin\OneDrive\Documentos\Guia3\Guia3\Guia3\obj\Debug\Guia3.Form1.resources
+C:\Users\irvin\OneDrive\Documentos\Guia3\Guia3\Guia3\obj\Debug\Guia3.Properties.Resources.resources
+C:\Users\irvin\OneDrive\Documentos\Guia3\Guia3\Guia3\obj\Debug\Guia3.csproj.GenerateResource.cache
+C:\Users\irvin\OneDrive\Documentos\Guia3\Guia3\Guia3\obj\Debug\Guia3.csproj.CoreCompileInputs.cache
+C:\Users\irvin\OneDrive\Documentos\Guia3\Guia3\Guia3\obj\Debug\Guia3.exe
+C:\Users\irvin\OneDrive\Documentos\Guia3\Guia3\Guia3\obj\Debug\Guia3.pdb
